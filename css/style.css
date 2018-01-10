@@ -305,6 +305,7 @@ hr {
 
 #intro.intro {
 	padding:200px 0 150px 0;
+  min-height: 100vh;
 }
 
 .intro .slogan {
