@@ -248,7 +248,7 @@ hr {
 ============================ */
 
 .home-section {
-    padding-top: 120px;
+    padding-top: 55px;
     padding-bottom: 110px;
 	display:block;
     position:relative;
@@ -305,7 +305,6 @@ hr {
 
 #intro.intro {
 	padding:200px 0 150px 0;
-  min-height: 100vh;
 }
 
 .intro .slogan {
@@ -640,4 +639,33 @@ a.btn:hover {
 		font-size: 20px;
 	}
 	
+}
+
+.slogan img {
+    width: 160px;
+    border-radius: 50%;
+    border: 6px solid #fff;
+}
+
+.slogan * {
+    color: #fff !important;
+    line-height: normal;
+}
+
+.slogan h1 {
+    margin: 16px 0px;
+}
+
+p#socialicon img {
+    width: 40px;
+    border: 0px;
+    margin: 0px 4px;
+}
+
+.slogan h3 {
+    letter-spacing: 2px;
+}
+
+.item {
+    box-shadow: 0px 0px 11px #000;
 }
